@@ -82,10 +82,10 @@
     flex: 1;
 }
 
-.tamanhoDiv5,
-.tamanhoDiv6,
-.tamanhoDiv7,
-.tamanhoDiv8 {
+.sizeDiv5,
+.sizeDiv6,
+.sizeDiv7,
+.sizeDiv8 {
     width: 250px;
     height: 250px;
     background-color: white;
