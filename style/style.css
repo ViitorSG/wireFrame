@@ -1,0 +1,115 @@
+.navTitleCentralize {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: black;
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding-left: 0;
+}
+
+.navbar-nav .nav-item {
+    flex: 1;
+    text-align: center;
+}
+
+.sizeDiv1 {
+    background-color: #047cfc;
+    height: 760px;
+    width: 700px;
+}
+
+.sizeDiv2 {
+    background-color: #047cfc;
+    height: 300px;
+    width: 380px;
+}
+
+.sizeDiv3 {
+    background-color: #047cfc;
+    height: 300px;
+    width: 380px;
+    margin-top: 50px;
+}
+
+.formatButton {
+    width: 100%;
+    height: 50px;
+    margin-top: 10px;
+    background-color: yellow;
+    border-radius: 10px;
+}
+
+.blueNav {
+    height: 180px;
+    background-color: #047cfc;
+}
+
+.orangeContainer {
+    height: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 98%;
+    background-color: orange;
+}
+
+.orangeContainerTwo {
+    height: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    width: 87%;
+    background-color: orange;
+}
+
+.sizeDiv4 {
+    height: 400px;
+    width: 1500px;
+    background-color: white;
+    margin-left: -200px;
+}
+
+.row {
+    display: flex;
+}
+
+.col {
+    flex: 1;
+}
+
+.tamanhoDiv5,
+.tamanhoDiv6,
+.tamanhoDiv7,
+.tamanhoDiv8 {
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    margin-top: 50px;
+}
+
+.formatTitle {
+    margin-left: 200px;
+}
+
+.backColor {
+    background-color: #047cfc;
+}
+
+.FormatBellowButton {
+    cursor: pointer;
+    width: 80%;
+    height: 50px;
+    margin-top: 10px;
+    background-color: yellow;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+.titleFont {
+    font-size: 30px;
+}
